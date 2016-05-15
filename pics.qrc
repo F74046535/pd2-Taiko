@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>th.jpg</file>
+        <file>bg.png</file>
+        <file>54238257.png</file>
+        <file>55338838.png</file>
+        <file>dancer_2a4.png</file>
+        <file>dancer_n15.png</file>
+        <file>123.JPG</file>
+        <file>dancer_2n14.png</file>
+        <file>123.mp3</file>
+        <file>562_n.jpg</file>
+        <file>5151.png</file>
+        <file>5252.png</file>
+    </qresource>
+</RCC>
